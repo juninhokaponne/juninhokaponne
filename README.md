@@ -49,7 +49,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://github.com/juninhokaponne"><img src="https://img.shields.io/badge/-Gilson-webSite-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/juninhokaponne"><img src="https://img.shields.io/badge/-juninhokaponne-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gilson-oliveira"><img src="https://img.shields.io/badge/-Gilson-Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juninhokaponnemg@hotmail.com"><img src="https://img.shields.io/badge/-juninhokaponnemg@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
