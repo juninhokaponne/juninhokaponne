@@ -31,10 +31,9 @@
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Weather-app](https://github.com/juninhokaponne/Weather-App)
-- [blog2](https://github.com/juninhokaponne)
-- [blog3)](https://github.com/juninhokaponne)
-- [blog4](https://github.com/juninhokaponne)
-- [blog5](https://github.com/juninhokaponne)
+- [Chat-real](https://github.com/juninhokaponne/chat-real)
+- [Notepad-app)](https://github.com/juninhokaponne/notepad)
+- [Api-notepad](https://github.com/juninhokaponne/api-notepad)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
