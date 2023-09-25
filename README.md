@@ -18,6 +18,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -30,6 +31,7 @@
 
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Friend Recommendation](https://github.com/juninhokaponne/friendRecomendation)
 - [Weather-app](https://github.com/juninhokaponne/Weather-App)
 - [Chat-real](https://github.com/juninhokaponne/chat-real)
 - [Notepad-app](https://github.com/juninhokaponne/notepad)
