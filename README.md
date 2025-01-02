@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Gilson.
+## I'm Gilson, Software developer with 6 years of experience. 
 
 ### 💻 &nbsp;About Me 
 
